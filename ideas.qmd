@@ -1,0 +1,36 @@
+---
+title: "Understanding the System Behind the Measurements"
+subtitle: "Reflections on neuroscience and neuroimaging"
+date: today
+categories:
+  - Neuroscience
+  - Neuroimaging
+format:
+  html:
+    toc: true
+    number-sections: false
+    embed-resources: true
+---
+
+## Understanding the system behind the measurements
+When studying the neurobiological effects of depression or its treatment, we need to recognize that 
+the changes we measure in the brain are representations of a much more complex underlying phenomenon. 
+Brain structure and function are influenced by an interplay of genetic, environmental, biological, 
+and psychological factors. Neuroimaging methods such as MRI, PET, and MEG/EEG provide different 
+perspectives on this system, allowing us to observe particular aspects of its behaviour. 
+However, these measurements do not necessarily reveal the underlying mechanisms responsible for that behaviour.
+
+### Observing patterns versus understanding mechanisms
+An analogy can be made to playing a video game. A person can become highly skilled at a game by learning 
+its rules, recognizing patterns, and understanding how different actions produce different outcomes. 
+Yet, this does not mean that they understand the programming, algorithms, or hardware that make the game possible. 
+They understand how to interact with the system, but not necessarily how the system works at a deeper level.
+
+Similarly, in neuroscience, we can become very skilled at identifying patterns in neuroimaging data, describing changes, 
+and establishing associations between brain measures and clinical outcomes. However, this does not automatically mean 
+that we understand the underlying biological mechanisms.
+
+Perhaps we need to remain conscious of this distinction: we are observing the behaviour of a complex system through 
+different measurement techniques, rather than directly accessing or fully understanding the system itself. 
+Our task is not only to describe what changes, but to gradually understand why and how those changes occur. We need to 
+be aware of what we can and cannot say anything about and what questions we are and are not able to answer. 
